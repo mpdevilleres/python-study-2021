@@ -1,0 +1,40 @@
+
+
+XXXXX COMPANY                                        Asset Retirements Report
+Currency:  AED                                                                                       Report Date:  11-OCT-2017 15:06
+Book:  ASSET BOOK                                    Period:  FEB-10 to SEP-17                              Page:      1  of     624
+Region/Ledger:  AU
+Asset Type:  Capitalized
+Account:  10001
+Cost Centre:  1650
+
+
+Asset Number -  Date Placed Date                   Cost        Net Book     Proceeds of                                      Trans
+Description     in Service  Retired             Retired   Value Retired            Sale    Removal Cost       Gain/Loss     Number
+--------------- ----------- ----------- --------------- --------------- --------------- --------------- --------------- ----------
+411519 - DATA G 12-SEP-1989 28-SEP-2014       5,430.00            0.00            0.00            0.00            0.00    20748407
+411512 - INSTAL 12-SEP-1989 28-SEP-2014       1,124.00            0.00            0.00            0.00            0.00    20749766
+                                        --------------- --------------- --------------- --------------- ---------------
+Cost Centre 1650 Totals:                    155,680.32          541.72            0.00            0.00         (541.72)
+
+
+
+
+
+XXXXX COMPANY                                        Asset Retirements Report
+Currency:  AED                                                                                       Report Date:  11-OCT-2017 15:06
+Book:  ASSET BOOK                                    Period:  FEB-10 to SEP-17                              Page:      1  of     624
+Region/Ledger:  AU
+Asset Type:  Capitalized
+Account:  10001
+Cost Centre:  1650
+
+
+Asset Number -  Date Placed Date                   Cost        Net Book     Proceeds of                                      Trans
+Description     in Service  Retired             Retired   Value Retired            Sale    Removal Cost       Gain/Loss     Number
+--------------- ----------- ----------- --------------- --------------- --------------- --------------- --------------- ----------
+411519 - DATA G 12-SEP-1989 28-SEP-2014       5,430.00            0.00            0.00            0.00            0.00    20748407
+411512 - INSTAL 12-SEP-1989 28-SEP-2014       1,124.00            0.00            0.00            0.00            0.00    20749766
+                                        --------------- --------------- --------------- --------------- ---------------
+Cost Centre 1650 Totals:                    155,680.32          541.72            0.00            0.00         (541.72)
+
