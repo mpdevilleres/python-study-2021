@@ -1,0 +1,13 @@
+# Day 3 - Topics
+- review of day 1, 2
+    - basic datatypes, list, tuple
+    - control flow
+- control flow
+    - while loop
+- new datatype
+    - dictionary
+- hangman app
+- object instance
+- file input/output
+- debugger
+- logging vs print
