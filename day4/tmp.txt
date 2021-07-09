@@ -1,0 +1,12 @@
+Afternoon
+Morning
+Good
+Bad
+Yesterday
+Good
+Yesterday
+Tomorrow
+Bad
+Morning
+Afternoon
+Good
